@@ -1,6 +1,6 @@
-# Blender API 4.5 Data Processor
+# Blender 4.5 API Data Processor
 
-This project is a tool that parses Blender Python API 4.5 documentation and ingests it into a vector database (ChromaDB) to be used in systems such as RAG (Retrieval-Augmented Generation).
+This project is a tool that parses Blender Python 4.5 API documentation and ingests it into a vector database (ChromaDB) to be used in systems such as RAG (Retrieval-Augmented Generation).
 
 ## Features
 
